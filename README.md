@@ -1,3 +1,3 @@
-# A News Website Sample
+# A News Website Sample using HTML AND CSS
 
-View Project: https://modest-kepler-33f5b8.netlify.app/
+View Project: https://news-deportes-gg.netlify.app/
